@@ -6,7 +6,7 @@ I'm a **Full-Stack Software Engineer** with deep expertise in **Django/Python** 
 
 - 💻 Full-stack developer with professional experience in **Django**, **Django REST Framework** and **PostgreSQL**
 - ⚛️ Skilled in building modern UIs with **React** Framework
-- 🔍 Passionate about building reliable, scalable, and user-friendly software solutions
+- 🔍 Passionate about building reliable, scalable, and user-friendly software
 - 🌍 Driven by projects that have positive outcomes in the real world
 - 🐹 Currently learning Go Programming Language
 
