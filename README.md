@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Georgi Lulchev
 
-I'm a **Full-Stack Software Engineer** with deep expertise in **Django/Python** and strong frontend skills in **React** as well as experience in **React-Native**.
+I'm a **Full-Stack Software Engineer** with deep expertise in **Django/Python** and strong frontend skills in **React**.
 
 ## 🧠 About Me
 
