@@ -25,7 +25,6 @@ I'm a **Full-Stack Software Engineer** with deep expertise in **Django/Python** 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" />
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" />
 <img src="https://vitejs.dev/logo.svg" alt="Vite" width="42" height="42" />
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" />
 </p>
 
 **Other**
